@@ -1,0 +1,9 @@
+.main-placeholder img {
+    height: 450px;
+    width: auto;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
