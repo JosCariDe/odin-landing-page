@@ -1,9 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.main-title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.hero-container {
+    color: whitesmoke;
+    display: flex;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-container {
+    height: 520px;
+    display: flex;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+}
+ .main {
+    height: 300px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: space-between;
+ }
+
+.hero-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.hero-container,
+.footer-container,
+.main-container {
+    background-color: #1f2937;
+}
+}
+
 .main-placeholder img {
-    height: 450px;
+    height: 4500px;
     width: auto;
 }
 
 img {
     width: 200px;
     height: auto;
+}
+
+.section-container {
+    
 }
