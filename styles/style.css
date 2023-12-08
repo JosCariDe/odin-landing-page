@@ -51,18 +51,44 @@ a {
 .main-container {
     background-color: #1f2937;
 }
-}
+
 
 .main-placeholder img {
-    height: 4500px;
+    height: 450px;
     width: auto;
 }
 
 img {
-    width: 200px;
+    width: 260px;
     height: auto;
 }
 
 .section-container {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.section-blocks {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.block {
+    width: 260px;
+    height: auto;
+}
+
+.block img {
+    border: 50px solid rgba(0, 0, 250, 0.367);
     
 }
+
+.mensaje-container {
+    
+}
+
