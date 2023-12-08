@@ -101,12 +101,21 @@ img {
 }
 
 .container-aux {
-    width: 450px;
+    width: 800px;
 }
 
 .mensaje-author {
     font-size: 25px;
     justify-self: flex-end;
     font-weight: 900;
+}
+
+.registro-container {
+    width: 800px;
+    background-color:#3882f6 ;
+    color: white;
+    height: 129px;
+    margin: 0 auto;
+    border-radius: 10px;
 }
 
