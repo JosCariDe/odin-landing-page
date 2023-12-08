@@ -1,0 +1,60 @@
+[33mcommit 77e2bb4ca632ce2869ad3040c17229b96a60c663[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Fri Dec 8 15:09:36 2023 -0500
+
+    Agregado mas estilos a section
+    > Se agregó el flexbox necesario para acomodar cada elemento
+    > Faltan pequeños detalles como estilos a las imagenes
+
+[33mcommit cbb0c5d6e82328d99174788fe42b1fd19dd8ce51[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Wed Dec 6 15:35:24 2023 -0500
+
+    Agregando los primeros estilos al css
+    > al nav se le agregó el flexbox y colores
+    > al main, se intenta ajustar a los tamaños pedidos
+    > se ajutó el tamaño de la section de blocks
+
+[33mcommit c0cc2ec3528f7c3ad4de4f13f831dd6067fc3005[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Wed Dec 6 14:23:56 2023 -0500
+
+    Imagenes agregadas al html
+    Ajustadas para tener una dimension normal
+    varias imagenes agregadas en el directorio de img
+
+[33mcommit 88bdc3034507c71159cb4e8c23622a09441e9a4e[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Wed Dec 6 14:05:24 2023 -0500
+
+    Ampliado el index.html
+    Se Agregó la section para registrarse
+    Se agregó el footer
+
+[33mcommit 814b489d0ba50f1e51183886da65dac8fa28067a[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Wed Dec 6 13:55:42 2023 -0500
+
+    actualizado el index.html
+    > Se agregó la parte de los bloques, falta definir las img
+    > Se agregó la seccion del mensaje de motivacion
+
+[33mcommit d61223242dfd5e56d496c8b8c8052a870dcb3551[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Wed Dec 6 13:42:38 2023 -0500
+
+    Index.html fue ampliado
+    Se Completó la parte del main
+    Falta agregar la imagen principal y agregar el texto correcto
+
+[33mcommit 8e1ec55b61ac9980a9ab709aba70b65fa08d52ac[m
+Author: JoseCari <jdnarvaez@unimagdalena.edu.co>
+Date:   Wed Dec 6 13:33:25 2023 -0500
+
+    Creados el index y la hoja de estilos
+
+[33mcommit af4b42e44f9dde31e07392f8e91c3047cd2bde8e[m
+Author: JosCariDe <141448823+JosCariDe@users.noreply.github.com>
+Date:   Wed Dec 6 13:23:06 2023 -0500
+
+    Initial commit
