@@ -105,17 +105,51 @@ img {
 }
 
 .mensaje-author {
+    display: flex;
     font-size: 25px;
-    justify-self: flex-end;
+    justify-content: flex-end;
     font-weight: 900;
 }
 
+.container-box {
+    height: 266px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .registro-container {
-    width: 800px;
+    width: 850px;
     background-color:#3882f6 ;
     color: white;
     height: 129px;
     margin: 0 auto;
     border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.registro-text h4 {
+    font-size: 25px;
+}
+
+.registro-text p {
+    font-size: 18px;
+}
+
+.registro-button {
+    width: 150px;
+    height: 42px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 2.5px solid white;
+    background-color:#3882f6;
+}
+
+.footer-container {
+    height: 99px;
 }
 
